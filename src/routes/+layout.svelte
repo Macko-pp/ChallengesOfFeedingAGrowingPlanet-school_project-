@@ -35,8 +35,8 @@
 			</svg>
 		</button>
 		<ul class="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
-			<li><a><i class="fa-brands fa-github left-0"></i>Source Code</a></li>
-			<li><a><i class="fa-solid fa-file"></i>Sources</a></li>
+			<li><a href="https://github.com/Macko-pp/ChallengesOfFeedingAGrowingPlanet-school_project-"><i class="fa-brands fa-github left-0"></i>Source Code</a></li>
+			<li><a href="https://docs.google.com/document/d/1sDCqFK--S71HJey5Y3_fk-ukV7raDMlKIOAjtoipli0/edit?usp=sharing"><i class="fa-solid fa-file"></i>Sources</a></li>
 		</ul>
 	</div>
 </div>
