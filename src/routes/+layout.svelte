@@ -18,7 +18,7 @@
 	</div>
 	<div class="flex-1">
 		<a href="/">
-			<button class="btn btn-ghost normal-case text-xl">Feading a Growing Planet</button>
+			<button class="btn btn-ghost normal-case text-xl">Challenges of Feeding a Growing Planet</button>
 		</a>
 	</div>
 	<div class="flex-none">
