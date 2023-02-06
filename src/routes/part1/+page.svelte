@@ -134,26 +134,25 @@
 
 <li class="prose">
 	<p>
-		Anim tempor laboris nisi dolor consequat anim Lorem minim incididunt minim excepteur proident anim aliquip.
+		<b>Graph</b> each model on the same axes
 	</p>
 	
-	<p class="ml-10">
-		Amet anim ad incididunt laboris duis consequat enim minim nostrud irure voluptate. Nostrud enim commodo nulla dolor fugiat et exercitation anim non occaecat labore elit ut. Adipisicing est adipisicing nisi nulla laboris consequat qui voluptate consequat mollit deserunt. Ut in fugiat Lorem qui ipsum eiusmod minim culpa.
-	</p>
+	<div class="bg-[#7FD87B] rounded-xl p-6">
+		<img src="/p1g.png" alt="a graph with a point at (65, 46.43)" class="h-80 ml-10">
+	</div>
 </li> <br>
 
 <li class="prose">
 	<p>
-		Aute et magna exercitation ad deserunt aute ex irure nostrud ad ut non ex consequat.
+		What does the slope (gradient) of each line represent? Which slope (gradient) is <u>more concerning</u>? <b>Explain</b>.
 	</p>
 	
 	<p class="ml-10">
-		Anim aute irure cupidatat do elit aute ut labore non. Sunt ut labore labore laborum consectetur est quis occaecat commodo. Veniam do consectetur minim consectetur. Sunt fugiat occaecat cillum dolore voluptate sit. Do minim amet consequat ea excepteur nulla eiusmod. Aute aute velit ipsum magna nostrud velit.
+		The slope of the lines represents the increase of meat consumption in both developed countries and countries in process of development. The one that belongs to developing countries has a lower slope, this means that the developing country's meat consumption is raising slower, signifying that the countries food supply is smaller or their food production is slower. This all could mean that the country is more prone to starvation or at least lower quality of life.
 	</p>
 </li> <br>
 
 </ol>
-
 </div>
 
 <style>
