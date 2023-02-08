@@ -1,6 +1,6 @@
 <div class="prose">
 
-<h1>Part 1: Worldwide meat consumption</h1>
+<h1>Part 1: Worldwide Meat Consumption</h1>
 <p>
 	There has been increasing pressure on farmers to produce meat 
 	(beef, pork, lamb, chicken and other types of meat that humans eat),
@@ -10,7 +10,7 @@
 	capita (per person). This had increased to 41.3 kg per capita in 2015.
 </p>
 
-<ol type="a">
+<ol type="a" class="marker:font-bold marker:text-[#7FD87B]">
 	
 <li class="prose">
 	<p>
